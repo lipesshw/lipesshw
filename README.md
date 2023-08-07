@@ -9,7 +9,7 @@ Seja bem-vindo ao meu Github/Portifólio, aqui você não irá encontrar muitas 
 
   
   
-  <img src="https://lanyard.cnrad.dev/api/1056956151088033863?hideTimestamp=true?hideProfile=true?hideStatus=true"> <br/>
+  <img src="https://lanyard.cnrad.dev/api/449992436668694549?hideTimestamp=true?hideProfile=true?hideStatus=true"> <br/>
 </div>
 
 ---
