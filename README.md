@@ -4,7 +4,7 @@ Seja bem-vindo ao meu Github/Portifólio, aqui você não irá encontrar muitas 
 ---
 
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lipesshw&layout=compact&langs_count=7&theme=react&hide_border=true&hide=makefile,handlebars,html"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lipesshw&layout=compact&langs_count=7&theme=react&hide_border=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipesshw&layout=compact&theme=react&hide_border=true"/>
 
   
