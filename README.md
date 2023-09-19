@@ -1,7 +1,7 @@
 # Olá! 👋🏻 
 ```php 
-Seja bem-vindo ao meu Github/Portifólio, aqui você não irá encontrar muitas coisas, já que a maioria das coisas que
-eu faço são para clientes e projetos privados.
+Seja bem-vindo ao meu Github/Portifólio, aqui você não irá encontrar muitas coisas, já que a
+maioria das coisas que eu faço são para clientes e projetos privados.
 
 ```
 <div align="center">
