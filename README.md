@@ -13,6 +13,6 @@ que eu faço são para clientes e projetos privados.
 <div align="center">
  <h3> <strong>Linguagens e Ferramentas:</strong></h3>
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,react,expressjs,tailwindcss,mongodb,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,react,expressjs,tailwindcss,mongodb,git)]()
 </div>
 
